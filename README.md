@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there friends👋,
+My name is Richard Alan M. Joligon, I am a 3rd-year BSIT student of Central Philippine University.
+Fun fact, I:
+- am currently learning how to animate.
+- am a decent painter and artist.
+- an avid reader of novels.
+- have a huge love of history.
+- currently learning how to create games.
 
 <!--
 **polijoligon/polijoligon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
